@@ -1,9 +1,3 @@
-Here’s a **clean, professional `README.md`** tailored to your exact project (C backend + HTML frontend + Mongoose server).
-
-You can copy-paste this directly into your repo.
-
----
-
 ```md
 # 🎓 University Timetable Generator (DAA Project)
 
