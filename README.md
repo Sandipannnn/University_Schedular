@@ -190,6 +190,7 @@ B.Tech CSE (DAA Project)
 
 ## 📜 License
 
+```
 This project is for academic purposes.
 
 ```
